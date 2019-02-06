@@ -1,1 +1,2 @@
 This is my first Project in Git!
+Merging a Pull request is what I am tring to do.
